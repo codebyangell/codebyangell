@@ -58,6 +58,7 @@ Me chamo Ângelo Anchieta Andrade, tenho 20 anos e sou natural de Minas Gerais. 
       align="left" 
       alt="GitHub Stats" 
       height="200"
+      width="430"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyangell&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
