@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Ângelo Anchieta Andrade, tenho 20 anos e sou natural de Minas Gerais. Fiz curso técnico em informática no Senai de Ipatinga. Atualmente, estou cursando Tecnólogo em Desenvolvimento Web na UNOPAR. Sou um desenvolvedor iniciante 👨‍💻 apaixonado por tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento e aqui você encontrará alguns dos meus projetos e aprendizados. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Front-End 🌐 e sempre buscando novos desafios. Sinta-se à vontade para explorar meu repositório e acompanhar minha evolução!
+Me chamo Ângelo Anchieta Andrade, tenho 21 anos e sou natural de Minas Gerais. Fiz curso técnico em informática no Senai de Ipatinga. Atualmente, estou cursando Tecnólogo em Desenvolvimento Web na UNOPAR. Sou um desenvolvedor iniciante 👨‍💻 apaixonado por tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento e aqui você encontrará alguns dos meus projetos e aprendizados. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Front-End 🌐 e sempre buscando novos desafios. Sinta-se à vontade para explorar meu repositório e acompanhar minha evolução!
 
 <div> 
   <a href="https://instagram.com/angelldrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
